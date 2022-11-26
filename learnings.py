@@ -7,4 +7,9 @@ def enumerateLearn():
 
     #Enumerate syntax is such that enumerate(iterable, start), start default is 0 and optional
 
+def setLearn():
+    print("Sets are unordered, unchangeable*, and unindexed")
+    myset = {"apple", "banana", "cherry"}
+    #Sets cannot contain duplicate values
+
 enumerateLearn()
